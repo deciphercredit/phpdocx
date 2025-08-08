@@ -1,0 +1,13 @@
+{
+  "name": "deciphercredit/phpdocx",
+  "description": "Phpdocx wrapper for Laravel",
+  "type": "library",
+  "autoload": {
+    "psr-4": {
+      "Phpdocx\\": "Classes/Phpdocx/"
+    }
+  },
+  "require": {
+    "php": "^7.0 || ^8.0"
+  }
+}
